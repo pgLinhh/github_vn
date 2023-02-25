@@ -2,6 +2,7 @@
 
 Repository (Repo)
 Branch (default is master)
+Confict
 
 #Commands
 

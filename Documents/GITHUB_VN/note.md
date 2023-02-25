@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch (default is master)
 Confict
+Local
+Remote
 
 #Commands
 
@@ -19,3 +21,4 @@ Confict
 - git checkout -b {branch name}
 - git merge {branch name}
 - git branch -d {branch name}
+- git push 

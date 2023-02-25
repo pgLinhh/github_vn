@@ -23,3 +23,4 @@ Remote
 - git branch -d {branch name}
 - git push 
 - cmd: git clone {link code github}: lay github tu web ve local
+- git pull : update master merging staging from pull request on github.web
